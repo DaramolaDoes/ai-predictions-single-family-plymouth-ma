@@ -14,7 +14,7 @@ import pandas as pd
 
 
 # Importing CSV and defining columns
-df = pd.read_csv('C:/Users/olubo/Documents/plymouthMAO.csv')
+df = pd.read_csv('Desktop/PlymouthMA/plymouthMAO.csv')
 
 
 # In[19]:
